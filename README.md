@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lester sharma
+- 👋 Hi, I’m lester Sharma
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning III year CS
 - 💞️ I’m looking to collaborate on ...
